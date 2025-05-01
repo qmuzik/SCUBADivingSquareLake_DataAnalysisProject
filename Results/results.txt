@@ -1,0 +1,69 @@
+SCUBA Diving in Sqaure Lake September 2021 - September 2024 Results
+* This document stores the results from the Python scripts used for Statisical Analysis of the Square Lake Dive Log .csv
+* By Quincy Muzik May 1st, 2025
+
+Bottom Time:
+  Mean:
+    19.893939393939394
+  Variance:
+    84.83473193473193
+  Median:
+    20.0
+  Mode:
+    0    20
+  Sum (Minutes):
+    1313
+  Sum (Hours):
+    21.883333333333333
+
+Max Depth:
+  Mean:
+    19.515151515151516
+  Variance:
+    13.761305361305359
+  Median:
+    20.0
+  Mode:
+    0    20
+  Sum (Feet):
+    1288
+
+Visibility:
+  Mean:
+   8.818181818181818
+  Variance:
+   11.751048951048954
+  Median:
+   10.0
+  Mode:
+   0    10
+  Sum (Feet):
+   582
+
+Underwater Tempature:
+  Mean:
+   68.65151515151516
+  Variance:
+   91.64592074592073
+  Median:
+   72.0
+  Mode:
+   0    73
+  Sum (Degrees Fahrenheit):
+   4531
+
+Lead Weight Worn:
+  Mean:
+   16.696969696969695        
+  Variance:
+   30.091375291375293        
+  Median:
+   16.0
+  Mode:
+   0    16
+  Sum (LBs):
+   1102
+
+
+
+
